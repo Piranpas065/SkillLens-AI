@@ -120,5 +120,30 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 =======
 # SkillLens-AI
+<<<<<<< HEAD
 Analyse CV
 >>>>>>> 47a904cda67b177cd19c9dd8cd909304b51c2895
+=======
+
+SkillLens-AI is an AI-powered application for analyzing CVs/resumes
+and extracting insights to support recruitment and skill evaluation.
+
+## Features
+- CV parsing
+- Skill extraction
+- Resume analysis
+
+## Tech Stack
+- JavaScript
+- Node.js / React (update this)
+- AI / NLP (planned)
+
+## Setup
+1. Clone the repo
+2. Install dependencies
+3. Create `.env` using `.env.example`
+4. Run the project
+
+## Status
+🚧 Work in progress
+>>>>>>> 40e0f400211dd8feddf4f682f9f72c94e336b65e

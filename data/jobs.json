@@ -1,0 +1,138 @@
+[
+  {
+    "id": "job001",
+    "title": "Full Stack Developer",
+    "description": "We are hiring a junior developer with experience in React, Next.js, Node.js, and MongoDB. The role includes API development, UI work, and Git-based collaboration.",
+    "skills": ["React", "Node.js", "MongoDB", "Next.js", "Git", "Node.js", "Express.js"]
+  },
+  {
+    "id": "job002",
+    "title": "Frontend Engineer",
+    "description": "Seeking a frontend engineer skilled in HTML, CSS, JavaScript, and React. Responsibilities include building responsive UIs and collaborating with designers.",
+    "skills": ["HTML", "CSS", "JavaScript", "React"]
+  },
+  {
+    "id": "job003",
+    "title": "Backend Developer",
+    "description": "Looking for a backend developer with Node.js, Express, and PostgreSQL experience. You will design APIs and manage databases.",
+    "skills": ["Node.js", "Express.js", "PostgreSQL", "MongoDB"]
+  },
+  {
+    "id": "job004",
+    "title": "DevOps Engineer",
+    "description": "Join our team to automate deployments and manage cloud infrastructure using Docker, AWS, and CI/CD tools.",
+    "skills": ["Docker", "AWS", "CI/CD"]
+  },
+  {
+    "id": "job005",
+    "title": "UI/UX Designer",
+    "description": "We need a creative UI/UX designer proficient in Figma, Adobe XD, and modern UI/UX practices to design user-centric web and mobile interfaces. Experience with wireframing, prototyping, user flows, mockups, design systems, usability testing, and responsive design is a plus.",
+    "skills": [
+      "Figma",
+      "Adobe XD",
+      "UI/UX design",
+      "wireframing",
+      "prototyping",
+      "user flows",
+      "mockups",
+      "design systems",
+      "usability testing",
+      "responsive design",
+      "component-based architecture",
+      "visual hierarchy",
+      "mobile-first design",
+      "interactive prototypes",
+      "reusable components"
+    ]
+  },
+  {
+    "id": "job006",
+    "title": "Mobile App Developer",
+    "description": "Hiring a mobile developer with React Native and TypeScript experience to build cross-platform apps.",
+    "skills": ["React Native", "TypeScript"]
+  },
+  {
+    "id": "job007",
+    "title": "QA Engineer",
+    "description": "Seeking a QA engineer to write and execute test cases using Jest and Cypress. Experience with automation is a plus.",
+    "skills": ["Jest", "Cypress", "Automation"]
+  },
+  {
+    "id": "job008",
+    "title": "Data Analyst",
+    "description": "Analyze business data using SQL, Python, and BI tools. Build dashboards, generate reports, and provide actionable insights for business decisions. Experience with analytics, data visualization, Tableau, Power BI, and reporting is required.",
+    "skills": ["SQL", "Python", "Data Analysis", "Tableau", "Power BI", "Dashboards", "Reporting", "Business Intelligence", "Analytics", "Data Visualization"]
+  },
+  {
+    "id": "job009",
+    "title": "Machine Learning Engineer",
+    "description": "Develop ML models using Python, TensorFlow, and scikit-learn. Deploy models to production environments.",
+    "skills": ["Python", "TensorFlow", "scikit-learn"]
+  },
+  {
+    "id": "job010",
+    "title": "Cloud Solutions Architect",
+    "description": "Design scalable cloud solutions on AWS and Azure. Experience with Kubernetes is required.",
+    "skills": ["AWS", "Azure", "Kubernetes"]
+  },
+  {
+    "id": "job011",
+    "title": "Product Manager",
+    "description": "Lead product development cycles, define requirements, and coordinate with engineering and design teams.",
+    "skills": ["Product Management", "Agile", "Scrum"]
+  },
+  {
+    "id": "job012",
+    "title": "Cybersecurity Analyst",
+    "description": "Monitor and secure systems using SIEM tools, perform vulnerability assessments, and respond to incidents.",
+    "skills": ["SIEM", "Vulnerability Assessment", "Incident Response"]
+  },
+  {
+    "id": "job013",
+    "title": "Database Administrator",
+    "description": "Manage and optimize MySQL and MongoDB databases. Ensure data integrity and backup procedures.",
+    "skills": ["MySQL", "MongoDB", "Backup"]
+  },
+  {
+    "id": "job014",
+    "title": "Technical Writer",
+    "description": "Create technical documentation, API guides, and user manuals for software products.",
+    "skills": ["Technical Writing", "API Documentation"]
+  },
+  {
+    "id": "job015",
+    "title": "Business Analyst",
+    "description": "Gather and document requirements, analyze business processes, and deliver insights using tools like SQL, Excel, and BI platforms. Experience with analytics, reporting, dashboards, and stakeholder communication is essential.",
+    "skills": ["Business Analysis", "Requirements Gathering", "SQL", "Excel", "BI", "Analytics", "Reporting", "Dashboards", "Stakeholder Communication"]
+  },
+  {
+    "id": "job016",
+    "title": "Network Engineer",
+    "description": "Design and maintain network infrastructure, troubleshoot connectivity issues, and implement security protocols.",
+    "skills": ["Networking", "Firewall", "Troubleshooting"]
+  },
+  {
+    "id": "job017",
+    "title": "Frontend Developer",
+    "description": "Assist in building web interfaces using HTML, CSS, and JavaScript. Great for students and freshers.",
+    "skills": ["HTML", "CSS", "JavaScript"]
+  },
+  {
+    "id": "job018",
+    "title": "AI Researcher",
+    "description": "Conduct research in AI, publish papers, and prototype new algorithms using Python and PyTorch.",
+    "skills": ["Python", "PyTorch", "Research"]
+  },
+  {
+    "id": "job019",
+    "title": "Salesforce Developer",
+    "description": "Develop and customize Salesforce applications, automate workflows, and integrate third-party APIs.",
+    "skills": ["Salesforce", "Apex", "API Integration"]
+  },
+  {
+    "id": "job020",
+    "title": "Support Engineer",
+    "description": "Provide technical support, troubleshoot issues, and assist customers via email and chat.",
+    "skills": ["Technical Support", "Troubleshooting"]
+  }
+]
